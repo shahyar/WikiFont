@@ -2,14 +2,14 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>
-Created by FontPrep 20130207 at Sun Apr  6 02:15:53 2014
+Created by FontPrep 20130207 at Sun Apr  6 13:46:46 2014
  By May Tee-Galloway
 Copyright (c) 2014 by Mun May Tee. All rights reserved.
 </metadata>
 <defs>
-<font id="8088f7bbbdba5c9832b27edb3dfcdf09" horiz-adv-x='1024' >
+<font id="633e7c004ffb97aefd105429fc7330b4" horiz-adv-x='1024' >
   <font-face 
-    font-family="wikicons-Regular"
+    font-family="Wikicon-Regular"
     font-weight="400"
     font-stretch="normal"
     units-per-em="2048"
@@ -41,8 +41,8 @@ d="M1248 1030q91 0 121 2q7 -8 7 -27t-7 -26q-77 -10 -128 -95q-12 -20 -30 -55l-117
 q-16 -36 -38 -36t-36 36l-350 820q-40 92 -62 117t-82 29q-8 9 -8 27t7 26q218 -4 344 0q8 -8 8 -27t-8 -26q-73 -9 -85 -34t20 -95l294 -669h7l178 364l-135 287q-42 88 -64 113t-72 33q-8 8 -8 26t6 27q34 -1 144 -1t145 1q7 -7 7 -26t-7 -27q-37 -5 -45 -18
 q-15 -24 27 -111l79 -161l7 -7l86 159q27 50 35 76q17 54 -47 62q-5 8 -5 28t7 26q32 -2 123 -2z" />
     <glyph glyph-name="uniE000" unicode="&#xe000;" 
-d="M966 838q-76 0 -134 -30t-92 -81q-34 -50 -47 -109q-14 -60 2 -122t61 -111q82 -83 194 -87t197 78q60 60 73 142t-16 152q-30 70 -96 119t-142 49zM1526 -94q-52 0 -89 37l-226 225q-138 -89 -306 -70q-169 19 -295 146q-126 126 -126 322t138 335q140 138 334 138
-q194 1 324 -129t147 -294q18 -164 -73 -303l-1 -2l315 -315l-53 -53q-37 -37 -89 -37z" />
+d="M966 838q-76 0 -134 -30t-90 -81q-34 -50 -48 -109q-14 -60 2 -122t61 -111q82 -83 194 -87t197 78q60 60 73 142t-16 152t-95 119q-68 49 -144 49zM1527 -94q-52 0 -89 37l-226 225q-138 -89 -306 -70q-168 18 -271 122t-135 225t0 243t124 213q140 138 333 138
+q193 1 323 -129t148 -294t-73 -303l-1 -2l315 -315l-53 -53q-37 -37 -89 -37z" />
     <glyph glyph-name="uniE001" unicode="&#xe001;" 
 d="M1618 547v-73h-822v-269l-416 352l416 384v-268h696q52 0 89 -37t37 -89z" />
     <glyph glyph-name="uniE002" unicode="&#xe002;" 
