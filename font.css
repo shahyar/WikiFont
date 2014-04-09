@@ -8,6 +8,17 @@
 }
 
 
+/* WIKIPEDIA LOGO e000-021
+*/
+
+.wikicon-cap-w:before {
+  content: "\57";
+}
+.wikicon-lower-w:before {
+  content: "\77";
+}
+
+
 /* UI ELEMENTS e000-021
 */
 
@@ -76,6 +87,9 @@
 }
 .wikicon-pin:before {
   content: "\e021";
+}
+.wikicon-caret:before {
+  content: "\e022";
 }
 
 
