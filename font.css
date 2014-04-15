@@ -8,18 +8,7 @@
 }
 
 
-/* WIKIPEDIA LOGO e000-021
-*/
-
-.wikicon-cap-w:before {
-  content: "\57";
-}
-.wikicon-lower-w:before {
-  content: "\77";
-}
-
-
-/* UI ELEMENTS e000-021
+/* UI ELEMENTS e000-023
 */
 
 .wikicon-magnifying-glass:before {
@@ -91,6 +80,9 @@
 .wikicon-caret:before {
   content: "\e022";
 }
+.wikicon-download:before {
+  content: "\e023";
+}
 
 
 /* STRIPES e040-043
@@ -103,6 +95,14 @@
 }
 .wikicon-stripe-expanded:before {
   content: "\e042";
+}
+
+
+/* WIKIPEDIA LOGO e400-401
+*/
+
+.wikicon-w:before {
+  content: "\e400";
 }
 
 
