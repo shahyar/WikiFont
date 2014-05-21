@@ -127,7 +127,7 @@
 }
 .WikiFont-block:before {
   content: "\e502";
-
+}
 .WikiFont-block-slash:before {
   content: "\e503";
 }
