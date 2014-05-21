@@ -1,5 +1,6 @@
-WikiFont: Minimal HTML code
+Minimal HTML code
 ----
+This minimal demo requires the font files and `font.css`.
 
 ````
 <!DOCTYPE html>
