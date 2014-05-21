@@ -37,7 +37,7 @@ This minimal demo requires the font files and `font.css`.
 </html>
 ````
 
-and so on. See `index.html` for full list in demo.
+and so on. See `demo.html` for full list in demo.
 
 
 Credit
