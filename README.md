@@ -42,4 +42,4 @@ and so on. See `index.html` for full list in demo.
 
 Credit
 ----
-Munmay (WMF)
+* Munmay (WMF)
