@@ -31,7 +31,7 @@ WikiFont: Minimal HTML code
 </html>
 ````
 
-and so on. See `index.html` for full demo.
+and so on. See `index.html` for full list in demo.
 
 
 Credit
