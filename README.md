@@ -8,6 +8,13 @@ WikiFont: Minimal HTML code
     <meta charset="utf-8">
     <title>WikiFont minimal code</title>
     <link rel="stylesheet" href="font.css">
+    <style>
+	  i { 
+	    font-family: WikiFont-Regular; 
+	    font-size: 3em;
+	    font-style: normal;
+	  }
+	</style>
   </head>
 	<body>
 		<i class="WikiFont-puzzle"></i>
