@@ -5,7 +5,7 @@ Current
 
 Minimal HTML code
 ----
-This minimal demo requires the font files and `font.css`.
+This minimal `demo.html` requires the font files and `font.css` of this repository.
 
 ````
 <!DOCTYPE html>
@@ -33,12 +33,10 @@ This minimal demo requires the font files and `font.css`.
 		<i class="WikiFont-link"></i>
 		<i class="WikiFont-quotes-add"></i>
 		<i class="WikiFont-speech-bubbles"></i>
+		and so on.
 	</body>
 </html>
 ````
-
-and so on. See `demo.html` for full list in demo.
-
 
 Credit
 ----
