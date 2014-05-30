@@ -3,6 +3,8 @@ Current
 
 ![Image of Yaktocat](./Screenshot-current.png)
 
+WikiFont is a project by the Wikimedia Foundation. Ongoing talks mainly [on trello](https://trello.com/c/rClBTMWE/26-wikifont-tracking).
+
 Minimal HTML code
 ----
 This minimal `demo.html` requires the font files and `font.css` of this repository.
