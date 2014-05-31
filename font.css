@@ -32,13 +32,13 @@
 .WikiFont-star:before {
   content: "\e006";
 }
-.WikiFont-sun:before {
+.WikiFont-starList:before {
   content: "\e007";
 }
-.WikiFont-star-circle:before {
+.WikiFont-sun:before {
   content: "\e008";
 }
-.WikiFont-funnel:before {
+.WikiFont-star-circle:before {
   content: "\e009";
 }
 .WikiFont-eye:before {
@@ -77,11 +77,26 @@
 .WikiFont-pin:before {
   content: "\e021";
 }
-.WikiFont-caret:before {
+.WikiFont-funnel:before {
   content: "\e022";
 }
 .WikiFont-download:before {
   content: "\e023";
+}
+.WikiFont-bell:before {
+  content: "\e025";
+}
+.WikiFont-bell-ring:before {
+  content: "\e026";
+}
+.WikiFont-caretDown:before {
+  content: "\e028";
+}
+.WikiFont-caret-left:before {
+  content: "\e027";
+}
+.WikiFont-caret-down:before {
+  content: "\e028";
 }
 
 
@@ -127,7 +142,7 @@
 }
 .WikiFont-block:before {
   content: "\e502";
-
+}
 .WikiFont-block-slash:before {
   content: "\e503";
 }
@@ -173,11 +188,23 @@
 .WikiFont-pencil:before {
   content: "\e800";
 }
-.WikiFont-pencil-revert:before {
+.WikiFont-pencil-revert-full:before {
   content: "\e801";
 }
-.WikiFont-pencil-lock:before {
+.WikiFont-pencil-revert-pt1:before {
   content: "\e802";
+}
+.WikiFont-pencil-revert-pt2:before {
+  content: "\e803";
+}
+.WikiFont-pencil-lock-full:before {
+  content: "\e804";
+}
+.WikiFont-pencil-lock-pt1:before {
+  content: "\e805";
+}
+.WikiFont-pencil-lock-pt2:before {
+  content: "\e806";
 }
 
 
@@ -211,20 +238,32 @@
 .WikiFont-image:before {
   content: "\e840";
 }
-.WikiFont-image-lock:before {
+.WikiFont-image-lock-full:before {
   content: "\e841";
 }
-.WikiFont-image-add:before {
+.WikiFont-image-lock-pt1:before {
   content: "\e842";
 }
-.WikiFont-image-main-placeholder:before {
+.WikiFont-image-lock-pt2:before {
   content: "\e843";
 }
-.WikiFont-folder:before {
+.WikiFont-image-add-full:before {
   content: "\e844";
 }
-.WikiFont-folder-main-placeholder:before {
+.WikiFont-image-add-pt1:before {
   content: "\e845";
+}
+.WikiFont-image-add-pt2:before {
+  content: "\e846";
+}
+.WikiFont-image-main-placeholder:before {
+  content: "\e847";
+}
+.WikiFont-folder:before {
+  content: "\e848";
+}
+.WikiFont-folder-main-placeholder:before {
+  content: "\e849";
 }
 
 
