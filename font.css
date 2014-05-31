@@ -32,7 +32,7 @@
 .WikiFont-star:before {
   content: "\e006";
 }
-.WikiFont-starList:before {
+.WikiFont-star-list:before {
   content: "\e007";
 }
 .WikiFont-sun:before {
@@ -88,9 +88,6 @@
 }
 .WikiFont-bell-ring:before {
   content: "\e026";
-}
-.WikiFont-caretDown:before {
-  content: "\e028";
 }
 .WikiFont-caret-left:before {
   content: "\e027";
@@ -206,8 +203,6 @@
 .WikiFont-pencil-lock-pt2:before {
   content: "\e806";
 }
-
-
 .WikiFont-speech-bubble:before {
   content: "\e810";
 }
@@ -220,21 +215,15 @@
 .WikiFont-speech-bubble-smile:before {
   content: "\e813";
 }
-
-
 .WikiFont-link:before {
   content: "\e820";
 }
-
-
 .WikiFont-quotes:before {
   content: "\e830";
 }
 .WikiFont-quotes-add:before {
   content: "\e831";
 }
-
-
 .WikiFont-image:before {
   content: "\e840";
 }
